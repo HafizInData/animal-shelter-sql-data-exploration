@@ -22,5 +22,5 @@ Dataset diambil dari Kaggle dan terdiri dari tiga file:
 • Perbandingan angka adopsi berdasarkan jenis kelamin hewan
 
 📄 Laporan Akhir
-Laporan eksplorasi lengkap tersedia dalam bentuk dokumen Word dan dapat diakses melalui tautan berikut:
+Dokumentasi dan pembahasan eksplorasi lengkap juga tersedia di Google Drive dan dapat diakses melalui tautan berikut:
 https://bit.ly/3GTUhKi
